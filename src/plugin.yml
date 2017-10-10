@@ -1,0 +1,7 @@
+name: DCPVP-Custom-StoreRedeem
+author: GHStudios
+version: 1.0
+main: com.duckcraftpvp.LicenseRedeem
+commands:
+  claim:
+    description: Claim the reward for your license.

@@ -1,0 +1,18 @@
+packages:
+  example:
+    - 'give %player% diamond 64'
+    - 'msg %player% You got 64 diamonds!'
+
+sql:
+  host: 'localhost'
+  database: db
+  username: name
+  password: pass
+  port: 3306
+
+lang:
+  OnlyPlayer: 'Sorry, but this command can only be used as a player.'
+  UsedKey: 'Sorry, your key has already been redeemed. Please contact an admin or buy a new one.'
+  NotValid: 'Sorry, your key is not valid.'
+  SuccessRedeem: 'You have successfully redeemed the license key, Enjoy your new package!'
+  Help: 'Please use the license key shown on your forums purchase at https://sitehere.com'
